@@ -1,0 +1,13 @@
+h1, .description {
+    color: crimson;
+    font-family: "Brush Script MT", cursive;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+div .picture {
+    text-align: center;
+}
