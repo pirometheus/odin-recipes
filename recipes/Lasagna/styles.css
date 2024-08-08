@@ -1,4 +1,4 @@
-h1, .description {
+h1, .description, h3 {
     color: crimson;
     font-family: "Brush Script MT", cursive;
 }
@@ -8,6 +8,16 @@ img {
     width: 400px;
 }
 
-div .picture {
+/*.picture {
     text-align: center;
+}
+*/
+ul, ol, p {
+    font-family: cursive;
+    font-weight: 400;
+    color: white;
+    
+}
+body {
+    background-color: darkcyan;
 }
